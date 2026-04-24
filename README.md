@@ -16,7 +16,8 @@ Tools that I'm interested in but didn't have the time to check out yet have thei
 ## Research
 - :star: [Elicit](https://elicit.org/) - Get a quick overview and summary about a new research field. Easily finds the most relevant literature but struggles with summarizing (LaTeX) math.
 - :dollar: [Scolarcy](https://scholarcy.com/) -  Summarize Documents not available to Elicit. Slightly more intricate summaries and critique collection.
-- [Quillbot](https://quillbot.com/) - Paraphrazing and grammar checking tool. Helps you improve your writing. Also has advanced features I didn't check out yet like _Citation Generation_, _Plagiarism Checks_, _Text Summary_
+- :star: [Quillbot](https://quillbot.com/) - Paraphrazing and grammar checking tool. Helps you improve your writing. Also has advanced features I didn't check out yet like _Citation Generation_, _Plagiarism Checks_, _Text Summary_
+- :star:[ MindMap AI](https://mindmapai.app/ai-mindmap-maker) - Transform text, documents, and research into structured visual mind maps. Helps organize ideas and simplify complex information.
 
 ## Image Generation
 - [DALL-E 2](https://openai.com/product/dall-e-2) - Prompt based image Generator. Works best on realistic landscapes/objects. People look off.
